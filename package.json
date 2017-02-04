@@ -1,0 +1,23 @@
+{
+  "name": "react-pracice-gulp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "babelify": "^6.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yu-imu/react-pracice-gulp.git"
+  },
+  "author": "imu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yu-imu/react-pracice-gulp/issues"
+  },
+  "homepage": "https://github.com/yu-imu/react-pracice-gulp#readme"
+}
