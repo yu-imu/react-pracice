@@ -6,7 +6,8 @@
   "dependencies": {},
   "devDependencies": {
     "babelify": "^6.4.0",
-    "body-parser": "^1.16.0"
+    "body-parser": "^1.16.0",
+    "browser-sync": "^2.18.7"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
